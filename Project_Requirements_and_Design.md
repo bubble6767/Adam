@@ -8,7 +8,7 @@
 
 ## 三、界面设计参考
 
-![QLearning](images\QLearning.png "QLearning")
+![QLearning](images/QLearning.png "QLearning")
 
 ## 四、团队分工协作表
 
